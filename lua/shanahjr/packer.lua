@@ -22,6 +22,7 @@ use ('nvim-treesitter/playground')
 use ('theprimeagen/harpoon')
 use ('mbbill/undotree')
 use ('tpope/vim-fugitive')
+use ('preservim/nerdcommenter')
 use {
   'VonHeikemen/lsp-zero.nvim',
   branch = 'v2.x',
